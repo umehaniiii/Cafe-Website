@@ -22,7 +22,7 @@ My Cafe is a simple and responsive cafe website where users can explore our menu
 
 You can view the live project here:
 
-[Insert GitHub Pages Link]
+ https://umehaniiii.github.io/Cafe-Website/
 
 Alternatively, to run it locally:
 
